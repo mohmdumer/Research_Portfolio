@@ -1,0 +1,10 @@
+# .gitignore
+*.data
+*.tmp
+__pycache__/
+*.pyc
+# Allow research files
+!*.pdf
+!*.py
+!.logs\experiment_20250722_025634\experiment.log
+!.Report\Research_Report.pdf
